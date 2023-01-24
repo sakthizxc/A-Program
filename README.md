@@ -19,3 +19,7 @@ int ballence=total-Ticket_price;
 System.out.println(ballence+" "+"Ballence");
 }
 }
+
+My Output is:
+After booking I have
+80 Ballence
